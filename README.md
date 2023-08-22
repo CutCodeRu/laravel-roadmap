@@ -111,3 +111,6 @@
     12. [Pipelines](concepts/pipelines.md)
 17. [TESTING](testing/index.md)
     1. [Основы тестирования](testing/basics.md)
+18. [PACKAGES](packages/index.md)
+    1. [Разработка собственных пакетов](packages/custom.md)
+    2. [Админ-панель Moonshine](packages/moonshine.md)
