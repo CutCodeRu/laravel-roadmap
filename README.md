@@ -114,3 +114,8 @@
 18. [PACKAGES](packages/index.md)
     1. [Разработка собственных пакетов](packages/custom.md)
     2. [Админ-панель Moonshine](packages/moonshine.md)
+19. [SECURITY](security/index.md)
+    1. [Защита CSRF](security/csrf.md)
+    2. [Аутентификация (Authentication)](security/authentication.md)
+    3. [Авторизация (Authorization)](security/authorization.md)
+    4. [Headers для безопасности](security/headers.md)
