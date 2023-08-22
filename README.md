@@ -30,3 +30,6 @@
    4. [Внедрение зависимостей (Dependency Injection)](controllers/dependency-injection.md)
    5. [Одноэлементные контроллеры (Single action controller)](controllers/single-action-controllers.md)
    6. [Неглубокая вложенность Shallow nesting)](controllers/shallow-nesting.md)
+6. VIEWS
+   1. [Шаблоны](views/basic-views.md)
+   2. [View Composers](views/view-composers.md)
