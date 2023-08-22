@@ -79,3 +79,7 @@
     1. [Получение входных данных (Retrieving Input)](requests/input.md)
     2. [Извлечение загруженных файлов (Retrieving Uploaded Files)](requests/files.md)
     3. [Методы запроса (Request methods)](requests/retrieving-request-url.md)
+13. RESPONSE
+    1. [Создание ответа](responses/creating-responses.md)
+    2. [Перенаправления (Redirects)](responses/redirects.md)
+    3. [Другие типы ответов](responses/other-response-types.md)
