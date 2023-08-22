@@ -4,6 +4,6 @@ Laravel содержит мощные и настраиваемые службы
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/routing#rate-limiting)
-- [Видео Laravel API. Все что необходимо! Json Resource, Resource Collection, Cache, Rate Limit](https://youtu.be/FjhcY5GbwfE)
+- [Laravel API. Все что необходимо! Json Resource, Resource Collection, Cache, Rate Limit](https://youtu.be/FjhcY5GbwfE)
 
 [//]: # "/materials"

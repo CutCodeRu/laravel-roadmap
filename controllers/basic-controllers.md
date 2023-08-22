@@ -10,6 +10,6 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/controllers#basic-controllers)
-- [Видео Обзор Spatie route attributes - пакет для маршрутизации в Laravel](https://youtu.be/Mw6AL3RYX8A)
+- [Обзор Spatie route attributes - пакет для маршрутизации в Laravel](https://youtu.be/Mw6AL3RYX8A)
 
 [//]: # "/materials"

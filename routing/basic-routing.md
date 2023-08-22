@@ -9,6 +9,6 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/routing#basic-routing)
-- [Видео Laravel с нуля. Урок 3. Маршрутизация](https://youtu.be/i_pkBJSVFzA)
+- [Laravel с нуля. Урок 3. Маршрутизация](https://youtu.be/i_pkBJSVFzA)
 
 [//]: # "/materials"

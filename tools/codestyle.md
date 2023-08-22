@@ -10,6 +10,6 @@ Code Style включает в себя такие вещи, как именов
 [//]: # "materials"
 
 - [Документация](https://spatie.be/guidelines)
-- [Видео Читабельный и поддерживаемый код. Рекомендации от Spatie](https://youtu.be/uKHj03nJr78)
+- [Читабельный и поддерживаемый код. Рекомендации от Spatie](https://youtu.be/uKHj03nJr78)
 
 [//]: # "/materials"

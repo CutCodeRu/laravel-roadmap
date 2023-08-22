@@ -8,6 +8,6 @@ Git - это система управления версиями файлов, 
 - [Документация](https://github.com)
 - [Документация](https://gitlab.com)
 - [Документация](https://bitbucket.org)
-- [Видео Правила оформления Commits при разработке проектов на Laravel](https://youtu.be/IheASgEyVMU)
+- [Правила оформления Commits при разработке проектов на Laravel](https://youtu.be/IheASgEyVMU)
 
 [//]: # "/materials"

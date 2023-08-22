@@ -8,7 +8,7 @@ HTML и JavaScript с возможностями анализа кода на л
 [//]: # "materials"
 
 - [Документация](https://www.jetbrains.com/phpstorm/)
-- [Видео Настройки phpStorm для удобного использования. Как работать с key map, file/live templates](https://youtu.be/CL8ZXZa0gyo)
-- [Курс Укротитель PHPStorm](https://learn.cutcode.dev/php-storm)
+- [Настройки phpStorm для удобного использования. Как работать с key map, file/live templates](https://youtu.be/CL8ZXZa0gyo)
+- [Укротитель PHPStorm](https://learn.cutcode.dev/php-storm)
 
 [//]: # "/materials"

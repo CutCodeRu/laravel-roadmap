@@ -7,7 +7,7 @@
 
 - [Документация](https://laravel.com/docs/10.x/middleware)
 - [Документация](https://laravel.com/docs/10.x/controllers#controller-middleware)
-- [Видео Для тех кто не знал. Получение модели в middleware](https://youtu.be/PuRa6yCzKws)
-- [Видео Динамические поддомены через middleware в Laravel. Для тех, кто не знал](https://youtu.be/YFrrrQlgZfo)
+- [Для тех кто не знал. Получение модели в middleware](https://youtu.be/PuRa6yCzKws)
+- [Динамические поддомены через middleware в Laravel. Для тех, кто не знал](https://youtu.be/YFrrrQlgZfo)
 
 [//]: # "/materials"

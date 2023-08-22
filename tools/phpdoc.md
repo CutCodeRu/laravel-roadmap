@@ -4,6 +4,6 @@ PHPDoc - это система документирования кода на PH
 [//]: # "materials"
 
 - [Документация](https://docs.phpdoc.org/3.0/)
-- [Видео PHPDoc и Laravel IDE helper. Для тех, кто не знал](https://youtu.be/Z5PVkRCu_Ww)
+- [PHPDoc и Laravel IDE helper. Для тех, кто не знал](https://youtu.be/Z5PVkRCu_Ww)
 
 [//]: # "/materials"

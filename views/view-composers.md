@@ -7,7 +7,7 @@ View Composers могут оказаться особенно полезными
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/views#view-composers)
-- [Видео View Composers. Как расшарить данные во все view в Laravel](https://youtu.be/sf3lX-rZu98)
-- [Видео Осторожнее с view composers! Как работают view composers в Laravel](https://youtu.be/3e7-gDHNPfc)
+- [View Composers. Как расшарить данные во все view в Laravel](https://youtu.be/sf3lX-rZu98)
+- [Осторожнее с view composers! Как работают view composers в Laravel](https://youtu.be/3e7-gDHNPfc)
 
 [//]: # "/materials"

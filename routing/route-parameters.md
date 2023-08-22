@@ -7,7 +7,7 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/routing#route-parameters)
-- [Видео Laravel с нуля. Урок 3. Маршрутизация](https://youtu.be/i_pkBJSVFzA)
-- [Видео Динамические поддомены через middleware в Laravel. Для тех, кто не знал](https://youtu.be/YFrrrQlgZfo)
+- [Laravel с нуля. Урок 3. Маршрутизация](https://youtu.be/i_pkBJSVFzA)
+- [Динамические поддомены через middleware в Laravel. Для тех, кто не знал](https://youtu.be/YFrrrQlgZfo)
 
 [//]: # "/materials"

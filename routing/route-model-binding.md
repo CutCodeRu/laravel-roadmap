@@ -4,6 +4,6 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/routing#route-model-binding)
-- [Видео Route Model Binding](https://www.youtube.com/watch?v=dj9tab-WOT4)
+- [Route Model Binding](https://www.youtube.com/watch?v=dj9tab-WOT4)
 
 [//]: # "/materials"
