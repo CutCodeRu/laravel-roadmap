@@ -119,3 +119,7 @@
     2. [Аутентификация (Authentication)](security/authentication.md)
     3. [Авторизация (Authorization)](security/authorization.md)
     4. [Headers для безопасности](security/headers.md)
+20. DEPLOYMENT
+    1. [Требования к серверу](deployment/server-requirements.md)
+    2. [Оптимизация](deployment/optimization.md)
+    3. [Forge / Vapor](deployment/deploying.md)
