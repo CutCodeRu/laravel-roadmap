@@ -1,5 +1,8 @@
 # Laravel Roadmap от CutCode
 
+[УРОВЕНЬ ЗНАНИЙ](skills/index.md)
+    1. [Тестирование](skills/check-skill.md)
+
 1. ИНСТРУМЕНТЫ РАЗРАБОТКИ
     1. [PHPDoc](tools/phpdoc.md)
     2. [Git](tools/git.md)
