@@ -109,3 +109,5 @@
     10. [Trait Macroble](concepts/macroable.md)
     11. [View Model](concepts/view-model.md)
     12. [Pipelines](concepts/pipelines.md)
+17. [TESTING](testing/index.md)
+    1. [Основы тестирования](testing/basics.md)
