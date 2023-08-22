@@ -123,3 +123,5 @@
     1. [Требования к серверу](deployment/server-requirements.md)
     2. [Оптимизация](deployment/optimization.md)
     3. [Forge / Vapor](deployment/deploying.md)
+21. [CI/CD](ci-cd/index.md)
+    1. [GitHub Action](ci-cd/github-actions.md)
