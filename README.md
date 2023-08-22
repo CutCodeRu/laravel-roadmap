@@ -125,3 +125,7 @@
     3. [Forge / Vapor](deployment/deploying.md)
 21. [CI/CD](ci-cd/index.md)
     1. [GitHub Action](ci-cd/github-actions.md)
+22. [MONITORING](monitoring/index.md)
+    1. [Debagbar](monitoring/debugbar.md)
+    2. [Telescope](monitoring/telescope.md)
+    3. [Sentry](monitoring/sentry.md)
