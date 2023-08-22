@@ -33,3 +33,12 @@
 6. VIEWS
    1. [Шаблоны](views/basic-views.md)
    2. [View Composers](views/view-composers.md)
+7. [BLADE](blade/index.md)
+   1. [Отображение данных (Displaying Data)](blade/displaying-data.md)
+   2. [Blade директивы (Blade Directives))](blade/blade-directives.md)
+   3. [Макеты (Layout)](blade/layouts.md)
+   4. [Компоненты (Components)](blade/components.md)
+   5. [Формы (Forms)](blade/forms.md)
+   6. [Subview](blade/including-subviews.md)
+   7. [Service Injection](blade/service-injection.md)
+   8. [Расширение Blade (Extending Blade)](blade/extending-blade.md)
