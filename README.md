@@ -42,3 +42,10 @@
    6. [Subview](blade/including-subviews.md)
    7. [Service Injection](blade/service-injection.md)
    8. [Расширение Blade (Extending Blade)](blade/extending-blade.md)
+8. FRONTEND
+   1. [Bundling Assets](frontend/bundling-assets.md)
+   2. [Livewire](frontend/livewire.md)
+   3. [Inertia](frontend/inertia.md)
+   4. [Vue](frontend/vue.md)
+   5. [React](frontend/react.md)
+   6. [Splade](frontend/splade.md)
