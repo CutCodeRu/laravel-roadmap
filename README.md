@@ -19,7 +19,7 @@
     6. [Visual Studio Code](tools/vscode.md)
 2. [УСТАНОВКА](installation/index.md)
     1. [Установка через Composer](installation/composer.md)
-    2. [Установка через Docker](installation/composer.md)
+    2. [Установка через Docker](installation/docker.md)
 3. [МАРШРУТИЗАЦИЯ (ROUTING)](routing/index.md)
     1. [Основы (Basic Routing)](routing/basic-routing.md)
     2. [Параметры маршрутов (Route Parameters)](routing/route-parameters.md)
