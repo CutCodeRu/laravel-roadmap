@@ -11,5 +11,6 @@ Code Style включает в себя такие вещи, как именов
 
 - [Документация](https://spatie.be/guidelines)
 - [Читабельный и поддерживаемый код. Рекомендации от Spatie](https://youtu.be/uKHj03nJr78)
+- [Код стайл с Pint для Laravel. Для тех, кто не знал](https://youtu.be/AJk6VHkmjzA)
 
 [//]: # "/materials"
