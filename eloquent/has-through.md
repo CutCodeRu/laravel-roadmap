@@ -7,8 +7,8 @@
 
 [//]: # "materials"
 
-- [Документация](https://laravel.com/docs/10.x/eloquent-relationships#has-one-through)
-- [Документация](https://laravel.com/docs/10.x/eloquent-relationships#has-many-through)
+- [Документация Has One Through](https://laravel.com/docs/10.x/eloquent-relationships#has-one-through)
+- [Документация Has Many Through](https://laravel.com/docs/10.x/eloquent-relationships#has-many-through)
 - [Отношения hasOneThrough и hasManyThrough. Гайд по отношениям в Laravel](https://youtu.be/E5Irf93knHM)
 
 [//]: # "/materials"

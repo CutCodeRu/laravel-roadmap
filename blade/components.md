@@ -4,8 +4,8 @@
 
 [//]: # "materials"
 
-- [Документация](https://laravel.com/docs/10.x/blade#components)
-- [Документация](https://laravel.com/docs/10.x/blade#anonymous-components)
+- [Документация Components](https://laravel.com/docs/10.x/blade#components)
+- [Документация Anonymous Components](https://laravel.com/docs/10.x/blade#anonymous-components)
 - [Blade компоненты в Laravel. Часть 1: классовые компоненты](https://youtu.be/vTdH8L45joQ)
 - [Blade компоненты в Laravel. Часть 2: анонимные и вложенные компоненты](https://youtu.be/GgJfHPEFBRs)
 - [Laravel Component меню. Активный пункт меню - создание динамического меню](https://youtu.be/D2eS3QqLSk0)

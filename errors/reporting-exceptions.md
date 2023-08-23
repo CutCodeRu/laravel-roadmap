@@ -12,6 +12,5 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/errors#reporting-exceptions)
-- [Документация](https://laravel.com/docs/10.x/errors#reporting-exceptions)
 
 [//]: # "/materials"
