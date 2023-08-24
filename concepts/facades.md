@@ -5,7 +5,7 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/facades)
-- [Фасады (facade) в Laravel. Что это и для чего используются](https://www.youtube.com/watch?v=et4esfqc43o)
+- [Фасады в Laravel. Что это и для чего используются](https://www.youtube.com/watch?v=et4esfqc43o)
 - [Использование фасадов в Laravel](https://cutcode.dev/articles/reaching-for-facades)
 - [Автоматическая генерация док-блоков в фасадах](https://cutcode.dev/articles/auto-docblock-in-facades)
 
