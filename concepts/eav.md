@@ -14,4 +14,5 @@
 [//]: # "materials"
 
 - [Характеристики, опции товара. EAV. Курс интернет магазин на Laravel. Этап 6.](https://youtu.be/zcTDe66Ppus)
+
 [//]: # "/materials"

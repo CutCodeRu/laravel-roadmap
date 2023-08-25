@@ -11,6 +11,6 @@ Redis или даже реляционная база данных.
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/queues#creating-jobs)
-- [Как использовать очереди (Queues/Jobs) в Laravel](https://youtu.be/WLSgwJPEIeg)
+- [Как использовать очереди Queues/Jobs в Laravel](https://youtu.be/WLSgwJPEIeg)
 
 [//]: # "/materials"

@@ -9,7 +9,7 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/events)
-- [Laravel Events/Observers (события)](https://youtu.be/9VsU9WzFvaw)
+- [Laravel Events/Observers](https://youtu.be/9VsU9WzFvaw)
 - [Как правильно вызывать события на добавление нового товара. Интернет магазин на Laravel](https://youtu.be/tO1xET_cpnc)
 
 [//]: # "/materials"
