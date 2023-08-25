@@ -5,9 +5,9 @@ Git - это система управления версиями файлов, 
 
 [//]: # "materials"
 
-- [Документация Github](https://github.com)
-- [Документация Gitlab](https://gitlab.com)
-- [Документация Bitbucket](https://bitbucket.org)
+- [Документация Github](https://fancyapps.com/fancybox/)
+- [Документация Gitlab](https://docs.gitlab.com/)
+- [Документация Bitbucket](https://support.atlassian.com/bitbucket-cloud/resources/)
 - [Правила оформления Commits при разработке проектов на Laravel](https://youtu.be/IheASgEyVMU)
 
 [//]: # "/materials"
