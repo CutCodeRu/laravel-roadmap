@@ -12,6 +12,5 @@
 - [Тесты в проектах Laravel. Часть 3. Практика](https://youtu.be/5DFfCzJDiYs)
 - [Изучение продвинутых методик Laravel](https://learn.cutcode.dev/store)
 - [Livewire тестирование компонентов в laravel](https://youtu.be/mdnHSEDY2XY)
-- [PEST тесты в Laravel. Обзор фреймворка для написания тестов](https://youtu.be/6BDAMKiRkhA)
 
 [//]: # "/materials"
