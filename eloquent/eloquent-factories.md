@@ -9,6 +9,8 @@ Factory использует библиотеку Faker для генераци�
 
 - [Документация](https://laravel.com/docs/10.x/eloquent-factories)
 - [Laravel курс с нуля. Урок 2. База данных, миграции и модели. Фабрики и сиды в Laravel](https://youtu.be/TK_O6Bjt1cY?t=481)
+- [Factories, seeds в Laravel. Использование фабрик и сидов при тестировании проектов на Ларавел](https://youtu.be/tkyBM-LIc5U?si=17pcBcw2jJIdNGHF)
+- [Factories, seeds в Laravel. Часть 2. Использование фабрик и сидов при тестировании на Ларавел](https://youtu.be/FfBthRRmkQM?si=alMdcODhIm8zn9fC)
 - [Проблема в faker image и кастомный faker provider в Laravel](https://youtu.be/n25h0dMqsr4)
 
 [//]: # "/materials"
