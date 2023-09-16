@@ -7,6 +7,6 @@ Eager loading позволяет загрузить все связанные м
 
 [//]: # "materials"
 
-- [Документация](ttps://laravel.com/docs/10.x/eloquent-relationships#eager-loading)
+- [Документация](https://laravel.com/docs/10.x/eloquent-relationships#eager-loading)
 
 [//]: # "/materials"
