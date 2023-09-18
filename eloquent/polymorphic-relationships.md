@@ -7,6 +7,6 @@
 [//]: # "materials"
 
 - [Документация](https://laravel.com/docs/10.x/eloquent-relationships#polymorphic-relationships)
-- [Livewire универсальные polymorph комментарии в Laravel](https://youtu.be/sVUOAMdtGYo)
+- [Livewire универсальные polymorph комментарии в Laravel](https://youtu.be/hxWu32ScQyw)
 
 [//]: # "/materials"
